@@ -1,0 +1,7 @@
+stable-baselines3
+gymnasium
+pandas
+ccxt
+tweepy
+shimmy
+torch
